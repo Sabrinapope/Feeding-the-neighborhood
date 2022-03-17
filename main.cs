@@ -17,22 +17,22 @@ namespace SampleApp
 
            // calculate the total number of slices of bread
             Console.WriteLine("number of bread slices needed");
-            _ = Convert.ToInt32(Console.ReadLine());
+            int numPeople = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("you Entered:" +  1722);
 
            // calculate the total loaves of bread
            Console.WriteLine("number of bread loaves");
-            _ = Convert.ToInt32(Console.ReadLine());
+            int numPeople = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("you Entered:" +  62);
 
             // calculate the total amount of tablespoons peanut butter
             Console.WriteLine("Enter 1 jar of peanut butter jar ");
-            _ = (Console.ReadLine());
+            int numPeople = (Console.ReadLine());
             Console.WriteLine("you entered:" + 54);
 
           // calculate the total amount of teaspoons jelly
             Console.WriteLine("Enter 1 jar of jelly jar ");
-            _ = (Console.ReadLine());
+            int numPeople = (Console.ReadLine());
             Console.WriteLine("you entered:" +  3444);
 
             // calculate the amount of peanut butter and jelly jars and loaves of bread
